@@ -66,7 +66,7 @@ export function Feed() {
             <View style={styles.postHeader}>
               <Image source={ProfileIcon} style={styles.postAvatar} />
               <View>
-                <Text style={styles.postUsername}>Rodrigo Gonçalves</Text>
+                <Text style={styles.postUsername}>Thomas Costa</Text>
                 <Text style={styles.postLocation}>Somewhere</Text>
               </View>
             </View>
