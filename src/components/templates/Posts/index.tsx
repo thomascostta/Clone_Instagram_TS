@@ -7,17 +7,6 @@ import { Post } from "../../organisms/Post";
 import { styles } from "../../../pages/Feed/styles";
 import { posts } from "../../../utils/posts";
 
-import {
-  MessengerIcon,
-  FavoriteIcon,
-  CommentIcon,
-  CameraIcon,
-  LogoIcon,
-  IgtvIcon,
-  SaveIcon,
-  ProfileIcon,
-} from "../../../global/styles/icons";
-
 export function Posts() {
   return (
     <FlatList
