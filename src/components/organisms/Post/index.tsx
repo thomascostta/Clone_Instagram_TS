@@ -1,5 +1,4 @@
 import React from "react";
-
 import { View, ImageProps, Image, Text } from "react-native";
 
 import { styles } from "../../../pages/Feed/styles";
@@ -8,12 +7,9 @@ import {
   MessengerIcon,
   FavoriteIcon,
   CommentIcon,
-  CameraIcon,
-  LogoIcon,
-  IgtvIcon,
-  SaveIcon,
-  ProfileIcon,
+  SaveIcon
 } from "../../../global/styles/icons";
+import { PostHeader } from '../../molecules/PostHeader';
 
 type Profile = {
   id: string,
@@ -38,14 +34,10 @@ type Props = {
 export function Post({ data }: Props) {
   return (
     <View style={styles.post}>
-      <View style={styles.postHeader}>
-        <Image source={ProfileIcon} style={styles.postAvatar} />
-        <View>
-          <Text style={styles.postUsername}>{data.username}</Text>
-          <Text style={styles.postLocation}>{data.location}</Text>
-        </View>
-      </View>
-
+      <PostHeader
+        username={data.username}
+        location={data.location}
+      />
       <Image source={data.cover} style={styles.cover} />
 
       <View style={styles.postFooter}>
