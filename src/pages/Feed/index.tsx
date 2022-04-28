@@ -28,9 +28,7 @@ export function Feed() {
         <View style={styles.headerSide}>
           <CameraIcon />
         </View>
-
         <LogoIcon />
-
         <View style={styles.headerSide}>
           <IgtvIcon />
           <MessengerIcon style={styles.messengerIcon} />
