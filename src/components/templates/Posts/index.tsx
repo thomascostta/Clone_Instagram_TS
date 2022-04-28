@@ -1,6 +1,5 @@
 import React from "react";
-
-import { View, FlatList, Image, Text } from "react-native";
+import { FlatList } from "react-native";
 
 import { Post } from "../../organisms/Post";
 
