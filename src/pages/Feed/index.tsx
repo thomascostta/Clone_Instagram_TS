@@ -50,7 +50,7 @@ export function Feed() {
           )}
         />
       </View>
-      <Posts />
+      <Posts data={posts} />
     </View>
   );
 }
