@@ -9,6 +9,15 @@
 </p>
 
 
+
+## How to use :toolbox:
+
+Use `yarn` or `npm` install to install project dependencies. Then start the project:
+```bash
+expo start
+```
+
+
 ## How to contribute :gear:
 - Fork this repository;
 - Create a branch with your feature: `git checkout -b my-feature`;
@@ -16,9 +25,11 @@
 - Push to your branch: `git push origin my-feature`.
 
 
+
 #### 🤝 Credits
 
 Thanks to Rodrigo from Rocketseat (https://github.com/rodrigorgtic) for making the content available in his repository and on YouTube.
+
 
 
 #### By
