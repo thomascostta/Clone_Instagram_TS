@@ -10,15 +10,12 @@ Instagram Clone Using React Native, Expo.CLI and TypeScript
 <img src="https://user-images.githubusercontent.com/82541529/166295063-d0cbcbba-7c46-476e-afd5-4711de63dc37.png" width="300">
 
 
-
-
 ### How to use :toolbox:
 
 Use `yarn` or `npm` install to install project dependencies. Then start the project:
 ```bash
 expo start
 ```
-
 
 ### How to contribute :gear:
 - Fork this repository;
@@ -27,11 +24,10 @@ expo start
 - Push to your branch: `git push origin my-feature`.
 
 
+### Credits 🤝
 
-###  Credits 🤝
 
-Thanks to Rodrigo from Rocketseat (https://github.com/rodrigorgtic) for making the content available in his repository and on YouTube.
-
+Thanks to [Rodrigo da Rocketseat](https://github.com/rodrigorgtic/ "Rodrigo da Rocketseat") for making the content available in his repository and on YouTube.
 
 
 ### By
