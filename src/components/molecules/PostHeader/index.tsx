@@ -2,7 +2,7 @@ import React from "react";
 import { View, Text, Image } from "react-native";
 
 import { ProfileIcon } from "../../../global/styles/icons";
-import { styles } from "../../../pages/Feed/styles";
+import { styles } from "./styles";
 
 import { PostAvatar } from '../../atoms/PostAvatar';
 import { PostUserName } from '../../atoms/PostUserName';
