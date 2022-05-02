@@ -5,8 +5,12 @@
 
 ## Overview :book:
  <p>
-  Instagram Clone Using React Native, Expo and TypeScript 
+  Instagram Clone Using React Native, Expo.CLI and TypeScript 
 </p>
+
+
+<img src="https://user-images.githubusercontent.com/82541529/166295063-d0cbcbba-7c46-476e-afd5-4711de63dc37.png" width="300">
+
 
 
 
