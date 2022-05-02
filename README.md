@@ -3,12 +3,10 @@
 </h1>
 
 
-
 ## Overview :book:
  <p>
-  Clone do Instagram usando React Native, Expo e TypeScript
- </p>
-
+  Instagram Clone Using React Native, Expo and TypeScript 
+</p>
 
 
 ## How to contribute :gear:
@@ -16,6 +14,11 @@
 - Create a branch with your feature: `git checkout -b my-feature`;
 - Commit your changes: `git commit -m 'feat: My new feature'`;
 - Push to your branch: `git push origin my-feature`.
+
+
+#### 🤝 Credits
+
+Thanks to Rodrigo from Rocketseat (https://github.com/rodrigorgtic) for making the content available in his repository and on YouTube.
 
 
 #### By
